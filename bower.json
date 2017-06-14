@@ -1,0 +1,26 @@
+{
+  "name": "meanstack",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "moon"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/moonyin10/meanStack",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "angular": "^1.6.4",
+    "angular-resource": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "toastr": "^2.1.3"
+  }
+}
